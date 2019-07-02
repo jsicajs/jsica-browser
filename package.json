@@ -1,0 +1,19 @@
+{
+  "name": "browser",
+  "version": "0.0.0",
+  "description": "Browser Implementation for JSica!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsicajs/jsica-browser.git"
+  },
+  "author": "Mehrdad Khanzadeh <mehrdadkhnzd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsicajs/jsica-browser/issues"
+  },
+  "homepage": "https://github.com/jsicajs/jsica-browser#readme"
+}
